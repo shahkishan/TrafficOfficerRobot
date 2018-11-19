@@ -1,8 +1,14 @@
 <resources>
-    <string name="app_name">TrafficOfficerRobot</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="tab_text_3">Tab 3</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="app_name">Traffic Officer Robot</string>
+    <string name="tab_text_1">About</string>
+    <string name="tab_text_2">Features</string>
+    <string name="action_settings">Exit</string>
+    <string name="description">
+
+
+Our Project is based on Traffic officer robot. This robot directs traffic with arms that signal red and green flags and helps pedestrians safely across wide, busy roads. It is also installed with surveillance cameras where the robot is able to send footage back to police in an effort to deter dangerous driving. The robot has red stop warning lights on the front and back of their torso, with green lights on their arms. They rotate periodically to control traffic flow across crossroads. They also carry TV cameras to record traffic Violation. It also issues traffic tickets and warnings signs. The robots are also equipped with rotating chests and surveillance cameras that record the flow of traffic and send real-time images to the police station.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
